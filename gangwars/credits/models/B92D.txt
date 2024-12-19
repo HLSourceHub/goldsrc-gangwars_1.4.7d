@@ -1,0 +1,105 @@
+				    
+
+
+				     -----=[3DGI RElease]=-----					
+
+					
+
+					Beretta 92D Compact
+					===================
+
+Modelinfo:
+----------
+Polycount v_models = 1076
+          w_model  = 1076
+	  P_Model  = 1076
+
+Modeled By:  [*]Suicide Machine
+Skinned By:  [*]Suicide Machine
+Animated By: [*]Suicide Machine
+Sounds By:   SeVeNduSt(SkiddleyBop)
+Sprites By:  [*]Suicide Machine
+
+
+Comes With:
+-----------------
+Left Handed Model
+Right Handed Model
+World Model
+Player Model
+Sounds
+Sprites
+
+
+=======================================================
+
+Completing Time:
+----------------
+
+Model: 3 days
+Skin: 10 days
+Animations: 6 hours
+Sprites 2 minutes
+
+=======================================================
+
+Install Info:
+-------------
+
+Place the MDL´s in \Half-Life\Cstrike\Models\
+Place the Wav´s in \Half-Life\Cstrike\sound\Weapons\
+
+Sprite install:
+---------------
+
+Place "Weapon_p228.txt & w_beretta.spr in \Half-Life\Cstrike\sprites\
+
+Open Hud.txt & go to the second half of the file, where you have the "640" settings.
+
+
+Replace:  
+--------------------------------------------------------------------------------------
+
+d_p228				640 640hud1	224	32	32	16
+
+With:
+
+d_p228				640 w_beretta 	0 	130	48	16
+======================================================================================
+
+Special Thanx:
+--------------
+
+Hangfire		- BetaTesting
+Bushmaniac		- BetaTesting
+SeVeNduSt(^SkiddleyBop^)- Making the Kickass sounds & Betatesting
+Sl!nky			- Posting Those BigAss Ref Pictures in the Forum
+The Folks @ Counter-Strike Forum. - Supporting my work (You know who you are).
+
+I think this covers it.
+
+Contact/Author
+==============
+
+[*]Suicide Machine
+
+Email: SuicideMachine@Swipnet.se
+Homepage: Http://Home.swipnet.se/suicide
+
+
+
+
+		I---------------------------=[3DGI Group]=------------------------------I
+		I									I
+		I									I
+		I 	HangFire	    	 - Skinner, Primary Player Modeler 	I
+		I       Bushmaniac        	 - Modeler & Draws Playermodel sketches I
+		I       SeVeNdUsT(^SkiddleyBop^) - Modeler, Sounds			I
+		I       [*]Suicide Machine     	 - Weapon Modeler, Skinner, Animator	I
+		I									I
+		I									I
+		I-----------------------------------------------------------------------I
+
+
+
+

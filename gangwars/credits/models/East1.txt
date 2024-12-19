@@ -1,0 +1,18 @@
+'Punker' re-skin
+
+---Model by Anderin---
+ ---Skin by Senor---
+
+This is a re-skin of the most popular player model ever released, Anderin's IRA. The model has been completely redone to work excellent with CS1.0 animations. The model was 100% redone from scratch so all credit goes to Anderin for that.
+
+**Make sure to pick up the other 2 IRA skins if you don't already have them, 2 of the best for ever for CS.**
+
+To use:
+	Extract model into your half-life/cstrike/models/player/*
+You can use this model in any one of the 8 model slots. Simply rename the model to the name of the folder, (eg: in terror folder rename "terror.mdl") and rename the original model you have in there for backup.
+
+Enjoy!
+
+-Senor
+ Jeremy Mlodik
+ jerm@wi.rr.com

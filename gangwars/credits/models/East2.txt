@@ -1,0 +1,17 @@
+"Thug" re-skin
+
+
+---Model by Pro Magnum---
+ ---Skin by Dirty---
+
+To use:
+	Extract model into your half-life/cstrike/models/player/*
+You can use this model in any one of the 8 model slots. Simply rename the model to the name of the folder, (eg: in terror folder rename "terror.mdl")
+ and rename the original model you have in there for backup.
+
+Enjoy!
+
+-Dirty
+ Cr@zy d!rTy
+ Shon McCutcheon
+ Shigga133@hotmail.com

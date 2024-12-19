@@ -1,0 +1,26 @@
+25
+bucket1				640 gw_hud	168	72	20	20
+bucket2				640 gw_hud	188	72	20	20
+bucket3				640 gw_hud	208	72	20	20
+bucket4				640 gw_hud	168	92	20	20
+bucket5				640 gw_hud	188	92	20	20
+bucket0				640 gw_hud	208	92	20	20
+number_0			640 gw_hud	0	0	20	25
+number_1			640 gw_hud	23	0	20	25
+number_2			640 gw_hud	47	0	20	25
+number_3			640 gw_hud	70	0	20	25
+number_4			640 gw_hud	95	0	20	25
+number_5			640 gw_hud	119	0	20	25
+number_6			640 gw_hud	144	0	20	25
+number_7			640 gw_hud	169	0	20	25
+number_8			640 gw_hud	192	0	20	25
+number_9			640 gw_hud	216	0	20	25
+divider				640 gw_hud	240	0	2	40
+cross				640 gw_hud	48	25	24	24
+dollar				640 gw_hud	192	25	18	25
+minus				640 gw_hud	210	25	13	23
+plus				640 gw_hud	223	25	17	23
+flash_full			640 gw_hud	160	25	32	32
+flash_empty			640 gw_hud	112	25	32	32
+flash_beam			640 gw_hud	144	25	16	32
+autoaim_c			640 crosshairs	96	0	24	24

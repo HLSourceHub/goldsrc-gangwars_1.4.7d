@@ -1,0 +1,3 @@
+2
+crosshair		640 crosshairs	72	48	24	24
+autoaim			640 crosshairs	0	72	24	24

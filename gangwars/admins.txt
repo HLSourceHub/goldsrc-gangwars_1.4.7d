@@ -1,0 +1,18 @@
+# This is the admin roster file
+# Make sure you include your admin roster 
+# in the following format for Steam: 
+# STEAMID PASSWORD LEVEL
+# or the following format for WON:
+# WONID PASSWORD LEVEL
+# Passwords are located in server.cfg
+
+# example:
+
+# id_steam STEAM_0:1:1234567 level1pass 1
+# id_steam STEAM_0:1:2345678 level2pass 2
+# id_steam STEAM_0:1:3456789 level3pass 3
+# id_steam STEAM_0:1:4567890 level4pass 4
+# id_won 123485738 level4pass 4
+id_steam STEAM_ID_LAN level4pass 4
+id_fail Unable to log in. Please retry your password.
+

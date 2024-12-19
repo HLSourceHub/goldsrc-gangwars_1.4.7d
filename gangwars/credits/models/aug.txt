@@ -1,0 +1,60 @@
+-----------------------------------------
+2002 MMI Military INDUSTRIES.
+-----------------------------------------
+Model:[Kor] MSY :D
+Sound: none
+Skin: [Kor] MSY :D
+Version: Final 
+
+-----------------------------
+
+Copy all .mdl's in the cstrike\models Order.
+Plz Backup You'r Original CS MDL s
+
+Thx For ALL 
+
+---------------------------------------
+| AUG -> Korea Army DR200 Semi Sniper |
+---------------------------------------
+
+Texture , Model [Kor]MolSal_Yoon = [Kor]MSY
+Animation "C.S 6.5 Reference Animation" 
+Hud Sprite,P_Model,W_Model Surport.
+
+Counter Strike Model Folder Extract Use
+Ex) c:\half-life\cstrike\models\
+
+Sound File
+Ex) c:\half-life\cstrike\sound\weapons\
+
+sprites
+Ex) c:\half-life\cstrike\sprites\
+
+Thx 
+
+e-mail: ultra_msy@hotmail.com
+
+homepage : http://www.Korclan.com/
+
+----------------------------------------
+국산 화기 시리즈 릴리즈 3
+----------------------------------------
+대우 DR-200 세미 스나이퍼
+
+해외 수출용 K-2 모디피션 총기인 
+DR-200의 스코프장착 버전 입니다
+
+카운터 스트라이크용이며
+절대로 안에 텍스쳐 매핑이나 트라이앵글 
+데이터에는 손대지 마십시오
+
+텍스쳐 , 모델 ,스플라이트 : [Kor]MSY :D
+베타 테스터 : Machine,[Kor]Mu.Zang.Gang.Do
+
+압축을 해체해서 나오는파일들은 해당 디렉토리에 카피 하시고
+원본데이터는 백업 해두십시오
+
+------------------------------------------
+e-mail: ultra_msy@hotmail.com
+homepage : http://www.Korclan.com/
+------------------------------------------

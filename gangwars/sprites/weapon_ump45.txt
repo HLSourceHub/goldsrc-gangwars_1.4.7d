@@ -1,0 +1,5 @@
+4
+crosshair		320 crosshairs	48	0	24	24
+autoaim			320 crosshairs	0	72	24	24
+crosshair		640 crosshairs	48	0	24	24
+autoaim			640 crosshairs	0	72	24	24

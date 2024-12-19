@@ -1,0 +1,7 @@
+// load custom song files in "mapname_songs.txt". This file is default Gangwars themes for end round results.
+// search begins in Half-Life/gangwars/sound/
+// Example for a theme would be Half-Life/gangwars/sound/audio/theme/draw.wav, so only audio/theme/draw.wav will work for now.
+
+gw_drawtheme audio/theme/draw.wav
+gw_easttheme audio/theme/eastwin.wav
+gw_westtheme audio/theme/westwin.wav

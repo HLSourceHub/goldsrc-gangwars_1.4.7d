@@ -1,0 +1,50 @@
+=================================================================
+IMI UZI 9mm SMG
+=================================================================
+
+*Complete replacement for HK UMP 45.
+
+-----------------------------------------------------------------
+Model - Ebs
+Skin - Ebs
+Animations - Ebs
+-----------------------------------------------------------------
+
+=================================================================
+Included in the .zip
+=================================================================
+Vee Left and Right models
+Pee model
+Wee model
+Sprites
+Sounds
+
+=================================================================
+Installation
+=================================================================
+BACKUP all the files you're going to replace so you can revert to
+your previous files if neccesary....
+
+Extract all .mdl's to your cstrike\models folder
+spr and weapon_ump45.txt go to cstrike\sprites
+wav's go to cstrike\sound\weapons
+
+-----------------------------------------------------------------
+
+I've been wanting to make an UZI replacement for CS for some time
+and I'm really proud of how it's turned out and I managed to make
+a working Pee model for the UMP!.  It was just a case of making
+the uzi exactly the same size as the ump p model.  it looks a bit
+strange in game but it does the job.
+
+Thanks to everyone on the CS forums for all the help and 
+suggestions.
+
+Goodbyes and huge thanks to Hangfire and Suicide Machine as they
+have departed from the CS Modelling community.  You'll be sorely
+missed guys...good luck for the future.
+
+Ebs
+n_ebrey@hotmail.com
+
+http://ebs.mustbehere.com

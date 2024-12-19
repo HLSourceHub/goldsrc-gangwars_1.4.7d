@@ -1,0 +1,146 @@
+__________________________________________________________________________________________
+
+CS_HASTE - by B@tman (ILLA) for HALFLIFE (1.1.0.8) COUNTERSTRIKE (1.3)
+___________________________________________________________________________________________
+
+Title                   : cs_haste (Town haste)
+Date released		: 12. December 2001
+Filename                : cs_haste.bsp
+Version                 : Final Release (2.2)
+Author                  : B@tman (ILLA)
+Email Address           : illa@hi.hinet.hr
+Web Page                : http://illa.gamer.hr
+Description             : Counterstrike - hostage rescue
+                          
+___________________________________________________________________________________________
+
+HOW TO PLAY
+___________________________________________________________________________________________
+
+Unzip cs_haste_final.zip into your Halflife-Folder
+(Make sure to enable winzip's 'use folder names' option!) 
+and everthing should drop into the correct folder.
+
+It has to look like this:
+___________________________________________________________________________________________
+
+/cstrike/maps/cs_haste.bsp               (the map you want to play)
+/cstrike/maps/cs_haste.txt               (objectives printed at the begining)
+/cstrike/maps/cs_haste.res               (a file for server admins*)
+/cstrike/cs_haste.wad                    (new textures)
+/cstrike/sound/materials.txt             (Texture sound assign file)
+/cstrike/sound/ambience/twn_bells.wav    (Sounds)
+/cstrike/sound/ambience/twn_arrive.wav    .
+/cstrike/sound/ambience/twn_boombox.wav   .
+/cstrike/sound/ambience/twn_crash.wav     .
+/cstrike/sound/ambience/twn_disco.wav     .
+/cstrike/sound/ambience/twn_intro.wav     .
+/cstrike/sound/ambience/twn_radio1.wav    .
+/cstrike/sound/ambience/twn_radio2.wav    .
+/cstrike/sound/ambience/twn_radio3.wav    .
+/cstrike/sound/ambience/twn_siren.wav     .
+/cstrike/cs_haste_final.txt                (the text you are reading right now)
+
+Start Halflife, choose "custom games", hit "Counterstrike", 
+choose multiplayer and search for a server running this map.
+HAVE PHUN :)
+___________________________________________________________________________________________
+
+* the res-file controls the downloading of the custom map components.
+When a client connects he will not only download the map! Automatically
+all components that listed in cs_haste.res (textures/sky/music) will be
+downloaded, if the server runs with sv_allowdownload set to 1.
+Every admin should decide if he wants people downloading the map and
+their components during a internet-game. But it`s useful for LAN-partys.
+___________________________________________________________________________________________
+
+CONSTRUCTION INFORMATION
+___________________________________________________________________________________________
+
+Base                    : New level from scratch
+Editor used             : Worldcraft 3.3
+Known Bugs              : None
+Build Time              : 5 weeks
+Compile machine         : Athlon 1200 Mhz CPU - 256 MB RAM
+Compile time            : 1h 40min
+
+Textures digitalized /w : Olimpus Camedia C 1400-L
+Texture editor used     : Photoshop 6.0, Wally 1.55b
+new textures            : yes
+new sky                 : no
+Sound editor used       : Sound forge 4.5, Goldwave 4.25
+new sounds              : yes
+
+___________________________________________________________________________________________
+
+THE MAP STORY
+___________________________________________________________________________________________
+
+Counter-Terrorists: Terrorists, after two
+successfull series of bombings in the
+central town, as they fled, ended up in
+the suburbs. This is the last point where
+you must stop them before they escape out
+of reach. Without Hostages they are
+doomed, so try to evacuate them all.
+
+Terrorists: Prevent the Counter-Terrorists
+from rescuing the Hostages, eliminate
+the Counter-Terrorists and escape from the
+town.
+__________________________________________________________________________________________
+
+THANKS TO
+___________________________________________________________________________________________
+
+PcPlay gaming magazine - for distributing the map with the magasine & lending the digicam
+MadAnt - for great ideas and naggin' so much (and bein' so damn right :)
+[ubehagelig] - for all the help & fresh ideas
+Sebastian - for beta testing (http://www.cscentral.com)
+Roger Moore - for PodBot waypoint file (http://www.cswaypoints.co.uk)
+Santas Crotch - For reviewing it (www.cs-maps.jolt.co.uk)
+[7L] Sh00le - for hosting the map & motivation boost
+[sVz] Mamba - for PodBot waypoint file & bug search
+[Pn] Sherif - for a few great ideas & bug search
+sumadinac - for good suggestions
+kWar,ZiPPo, Gluttonee - for all tequila, supoport & testing
+
+Alien Ant Farm - for making a song so good (Smooth Criminal:) 
+
+Thx to beta testers:
+---------------------------------
+[7L] The Legat clan
+[sVz] Svizac clan
+[pN] Pijani neprijatelj clan
+[HLM] Hrvatski ludi milicajci clan
+[MF] Military force clan
+Pod -the great- bot
+--
+All clanpage urls can be found at 
+http://cs.gamer.hr
+--
+And all you beta testers out there i forgot
+
+Special thanx to:
+---------------------------------
+Creators of de_train (bdog.wad), cs_office (cs_office.wad) & valve's halflife.wad 
+- for textures I used (some I slightly modified)
+
+International pain - for hosting it right damn away
+http://www.internationalpain.net
+
+CS-MAPS @ Jolt.co.uk - for hosting
+http://www.cs-maps.jolt.co.uk
+
+___________________________________________________________________________________________
+
+This Halflife-Counterstrike-Map (cs_haste) is (c) 2001 by ILLA. 
+Feel free to copy it around the world, but DO NOT put it on any sort of commercial product 
+or compilation unless you have permission from me. If you distribute this BSP file you 
+have to include this .txt-file unaltered.
+
+DO NOT modify this BSP-file in any way.
+
+Textures and sounds can be freely distributed and modified.
+
+____________________________________________________________________

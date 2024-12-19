@@ -1,0 +1,25 @@
+---------------HI-POLY SHELLS---------------
+
+by OPEDAYAH
+
+model category: any questions ?!   :-]
+
+original shell model: RavenTK (HK USP9 Perfection Series)
+--contact:
+- e-mail: raven@ortaga.com
+- site: http://raven.ortaga.com/index2.html
+edited models: by me
+compiled: by me
+
+skin:
+shell skin: SixShooter
+other (shotgun shell :-] ): by me
+
+installation:
+- put the *.mdl files in your ...\cstrike\models folder
+
+contact me:
+- e-mail me: OPE.scheisst.auf@bullen.de
+- ICQ me: 104119982
+
+thx for downloading this model pack !! ....  ;-]

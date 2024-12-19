@@ -1,0 +1,20 @@
+Glock28 HUD Sprite by Tiger 
+
+1st off thank you for downloading the sprite and i hope u enjoy it and u are not disappointed by it in anyway :).
+
+Installation is simple, extract the files 'w_glock18' & 'weapon_glock18' to your Counter-Strike folder usually..
+C:\sierra\Half-Life\cstrike.
+If you are already using a custom HUD.txt then you will have to change it manually, Scroll down to the 640 section (at the bottom) of your hud.txt and highlight d_mp5navy and all the numbers after it and copy/paste this over it all....
+
+d_glock18			640 w_glock18	0	130	48	16
+
+Save changes and ur ready to go!. 
+If u have any problems, either..
+ICQ me, my number is 82624908 or 
+Email me at frazer@steel-dragon.co.uk
+also if you want to request a sprite, leave me a message on the forum or email me/icq me. And have Fun!
+
+
+
+
+

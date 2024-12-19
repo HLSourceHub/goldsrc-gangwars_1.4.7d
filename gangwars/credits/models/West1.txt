@@ -1,0 +1,25 @@
+//================//
+// The Mexican    //
+//================//
+
+Author: Plastic Jesus
+Email: htoresta@hotmail.com
+Website: none
+
+Installation:
+------------
+
+Simply extract guerilla.mdl to (half-life directory)/cstrike/models/player/guerilla/
+
+Description: 
+------------
+
+/classes/arab.txt replacement:
+
+From the illegal immigrant slums of Los Angeles comes Gorilla Warface, the most fearsome latino gang in the United States. By trading drugs for guns with both the Russian military and the CIA, their power is believed to rival that of all other private armies in the United States combined. They are responsible for the deaths of over 1000 police officers nationwide as well shocking defeats of elite Navy and Army special forces units. Though their main motivation is greed, they also have an ultranationalist agenda of reclaiming over half of the continental US and all capital contained within for Mexico.
+
+------------
+
+This model was inspired by a friend who wanted me to recreate the Beta1 model I did a long time ago. I would be surprised if anyone remembers my Carlos Lianzo Jaramillo model, but that one actually got me an offer to skin for the Gangsta Wars mod, although it was even sloppier than this one. 
+
+Anyways, this took about 4 hours to complete. The only things I left alone were the boots, which I thought were good enough. The plaid jacket and the bandana were cut from images on the internet and manipulated beyond recognition. Everything else was painted and shaded from scratch. It could probably use some touchups where the different sections of the skin meet on the model, but none of them are glaring so I let it be.
